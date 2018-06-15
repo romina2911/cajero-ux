@@ -63,8 +63,7 @@ Encontramos diversos tipos de maslestar, dentro de ellos los más resaltantes:
 
 ## Limitaciones
 
-- Depender de la aprobación de las entidades bancarias
-
+- Depender de la aprobación de las entidades bancarias.
 
 
 ## Conclusiones
