@@ -75,6 +75,7 @@ Encontramos diversos tipos de maslestar, dentro de ellos los más resaltantes:
 - La cantidad de cajeros multifunción debe crecer.
 - La facilidad de acceder a un cajero también.
 - Los cajeros deben tener pantallas que permitan tener una letra más grance y colores más claros.
+- Todas estas ídeas deben ser aprobadas por las entidades bancarias.
 
 
 
