@@ -60,6 +60,13 @@ Encontramos diversos tipos de maslestar, dentro de ellos los más resaltantes:
 - Deberían estar presentes en más lugares cercanos como farmacias y minimarkets.
 - El uso de la huella digital o de un código QR sería de gran ayuda al momento de ingresar al cajero.
 
+
+## Limitaciones
+
+- Depender de la aprobación de las entidades bancarias
+
+
+
 ## Conclusiones
 
 - Los cajeros deben dar cifras menores a 20 soles. Desde billetes de 10 soles hasta monedas. El único banco que da monedas es Interbank. Sin embargo este tipo de cajeros son muy pocos y poca gente los conoce.
